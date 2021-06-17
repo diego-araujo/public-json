@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Youtube",
+    "allow": true,
+    "path" : "assets/images/youtube.png",
+    "urlAllow": ["youtube.com"]
+  },
+  {
+    "title": "Youtube",
+    "allow": true,
+    "path" : "assets/images/youtube.png",
+    "urlAllow": ["youtube.com"]
+  }
+]

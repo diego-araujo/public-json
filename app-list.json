@@ -1,7 +1,7 @@
 [
   {
     "title": "Youtube",
-    "allow": true,
+    "allow": "true",
     "path" : "assets/images/youtube.png",
     "allow": [
               {"url":"youtube.com"}
@@ -9,7 +9,7 @@
   },
   {
     "title": "Youtube",
-    "allow": true,
+    "allow": "true",
     "path" : "assets/images/youtube.png",
     "allow": [
               {"url":"youtube.com"}

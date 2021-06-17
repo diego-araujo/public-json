@@ -1,18 +1,20 @@
 [
   {
     "title": "Youtube",
-    "allow": "true",
+    "allow": true,
     "path" : "assets/images/youtube.png",
-    "allow": [
+    "urlAllow": [
               {"url":"youtube.com"}
-            ]
+            ],
+     "urlDeny": []
   },
   {
     "title": "Youtube",
-    "allow": "true",
+    "allow": true,
     "path" : "assets/images/youtube.png",
-    "allow": [
+    "urlAllow": [
               {"url":"youtube.com"}
-            ]
+            ],
+    "urlDeny": []
   }
 ]

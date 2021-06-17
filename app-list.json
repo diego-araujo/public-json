@@ -3,12 +3,16 @@
     "title": "Youtube",
     "allow": true,
     "path" : "assets/images/youtube.png",
-    "urlAllow": ["youtube.com"]
+    "allow": [
+              {"url":"youtube.com"}
+            ]
   },
   {
     "title": "Youtube",
     "allow": true,
     "path" : "assets/images/youtube.png",
-    "urlAllow": ["youtube.com"]
+    "allow": [
+              {"url":"youtube.com"}
+            ]
   }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Youtube",
+    "allow": true,
+    "path" : "assets/images/youtube.png",
+    "url" : "https://m.youtube.com/",
+    "openAction" : "app",
+    "package" :"com.google.android.youtube"
+  },
+  {
+    "title": "Youtube",
+    "allow": true,
+    "url" : "https://m.youtube.com/",
+    "path" : "assets/images/youtube.png",
+   "openAction" : "app",
+   "package" :"com.google.android.youtube"
+
+  }
+]

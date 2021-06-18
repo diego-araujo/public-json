@@ -4,6 +4,7 @@
     "allow": true,
     "path" : "assets/images/youtube.png",
     "url" : "https://m.youtube.com/",
+    "openAction" : "webview",
     "urlAllow": [
               {"url":"youtube.com"}
             ],
@@ -14,6 +15,7 @@
     "allow": true,
     "url" : "https://m.youtube.com/",
     "path" : "assets/images/youtube.png",
+    "openAction" : "webview",
     "urlAllow": [
               {"url":"youtube.com"}
             ],

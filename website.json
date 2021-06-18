@@ -7,8 +7,7 @@
     "openAction" : "webview",
     "urlAllow": [
               {"url":"youtube.com"}
-            ],
-     "urlDeny": []
+            ]
   },
   {
     "title": "Youtube",
@@ -18,7 +17,6 @@
     "openAction" : "webview",
     "urlAllow": [
               {"url":"youtube.com"}
-            ],
-    "urlDeny": []
+            ]
   }
 ]

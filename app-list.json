@@ -3,6 +3,7 @@
     "title": "Youtube",
     "allow": true,
     "path" : "assets/images/youtube.png",
+    "url" : "https://m.youtube.com/",
     "urlAllow": [
               {"url":"youtube.com"}
             ],
@@ -11,6 +12,7 @@
   {
     "title": "Youtube",
     "allow": true,
+    "url" : "https://m.youtube.com/",
     "path" : "assets/images/youtube.png",
     "urlAllow": [
               {"url":"youtube.com"}

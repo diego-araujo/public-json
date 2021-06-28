@@ -1,22 +1,22 @@
 [
   {
-    "title": "Your site",
+    "title": "Kids Space",
     "allow": true,
     "path" : "assets/images/site.png",
-    "url" : "https://www.google.com.br/",
+    "url" : "https://families.google.com/kidsspace/",
     "openAction" : "webview",
     "urlAllow": [
               {"url":"google.com"}
             ]
   },
   {
-    "title": "Your site",
+    "title": "UOL Educação",
     "allow": true,
     "path" : "assets/images/site.png",
-    "url" : "https://www.google.com.br/",
+    "url" : "https://educacao.uol.com.br/ultimas/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"google.com"}
+              {"url":"educacao.uol.com.br"}
             ]
   }
 ]

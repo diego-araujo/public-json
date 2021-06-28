@@ -18,5 +18,15 @@
     "urlAllow": [
               {"url":"educacao.uol.com.br"}
             ]
+  },
+  {
+    "title": "UOL Educação",
+    "allow": true,
+    "path" : "assets/images/site.png",
+    "url" : "https://educacao.uol.com.br/ultimas/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"educacao.uol.com.br"}
+            ]
   }
 ]

@@ -1,19 +1,130 @@
 [
   {
-    "title": "Youtube",
+    "title": "Google Meet",
     "allow": true,
-    "path" : "assets/images/youtube.png",
-    "url" : "https://m.youtube.com/",
+    "path" : "assets/images/google_meet.png",
+    "url" : "https://meet.google.com/pfo-tmtv-rdn",
     "openAction" : "app",
-    "package" :"com.google.android.youtube"
+    "package" :"com.google.android.apps.meetings"
   },
   {
-    "title": "Youtube",
+    "title": "Google Docs",
     "allow": true,
-    "url" : "https://m.youtube.com/",
-    "path" : "assets/images/youtube.png",
-   "openAction" : "app",
-   "package" :"com.google.android.youtube"
-
+    "path" : "assets/images/google_docs.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.docs.editors.docs"
+  },
+  {
+    "title": "Google Planilhas",
+    "allow": true,
+    "path" : "assets/images/google_sheets.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.docs.editors.sheets"
+  },
+  {
+    "title": "Apresentações",
+    "allow": true,
+    "path" : "assets/images/google_presentation.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.docs.editors.slides"
+  },
+  {
+    "title": "Google Jamboard",
+    "allow": true,
+    "path" : "assets/images/google_jamboard.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.jam"
+  },
+  {
+    "title": "Google Agenda",
+    "allow": true,
+    "path" : "assets/images/google_calendar.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.calendar"
+  },
+  {
+    "title": "Google Drive",
+    "allow": true,
+    "path" : "assets/images/google_drive.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.docs"
+  },
+  {
+    "title": "Google Forms",
+    "allow": true,
+    "path" : "assets/images/google_forms.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.heartfull.forms"
+  },
+  {
+    "title": "Google Keep",
+    "allow": true,
+    "path" : "assets/images/google_keep.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.keep"
+  },
+  {
+    "title": "Kahoot",
+    "allow": true,
+    "path" : "assets/images/kahoot.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"no.mobitroll.kahoot.android"
+  },
+  {
+    "title": "Canva",
+    "allow": true,
+    "path" : "assets/images/canva.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.canva.editor"
+  },
+  {
+    "title": "Wordwall",
+    "allow": true,
+    "path" : "assets/images/wordwall.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"wordwall.learn"
+  },
+  {
+    "title": "Mentimeter",
+    "allow": true,
+    "path" : "assets/images/mentimeter.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.mentimeter.voting"
+  },
+  {
+    "title": "Quizizz",
+    "allow": true,
+    "path" : "assets/images/quizizz.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.quizizz_mobile"
+  },
+  {
+    "title": "Flippity",
+    "allow": true,
+    "path" : "assets/images/flippity.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"flip.company.game"
+  },
+  {
+    "title": "Bitmoji",
+    "allow": true,
+    "path" : "assets/images/bitmoji.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.bitstrips.imoji"
   }
 ]

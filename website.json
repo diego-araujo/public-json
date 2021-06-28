@@ -1,22 +1,22 @@
 [
   {
-    "title": "Youtube",
+    "title": "Your site",
     "allow": true,
-    "path" : "assets/images/youtube.png",
-    "url" : "https://m.youtube.com/",
+    "path" : "assets/images/site.png",
+    "url" : "https://www.google.com.br/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"youtube.com"}
+              {"url":"google.com"}
             ]
   },
   {
-    "title": "Youtube",
+    "title": "Your site",
     "allow": true,
-    "url" : "https://m.youtube.com/",
-    "path" : "assets/images/youtube.png",
+    "path" : "assets/images/site.png",
+    "url" : "https://www.google.com.br/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"youtube.com"}
+              {"url":"google.com"}
             ]
   }
 ]

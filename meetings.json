@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Dev Daily",
+    "subTitle": "Sexta 18 de junho 17:30",
+    "allow": true,
+    "path" : "assets/images/google_meet.png",
+    "url" : "https://meet.google.com/pfo-tmtv-rdn?",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.meetings"
+  },
+  {
+    "title": "Development",
+    "subTitle": "Sexta 21 de junho 09:00",
+    "allow": true,
+    "path" : "assets/images/google_meet.png",
+    "url" : "https://meet.google.com/wri-imvu-ftt?",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.meetings"
+  }
+]

@@ -1,5 +1,5 @@
 {
     "sendLocalizationPeriodInMinutes": 0.5,
     "nextReloadConfigPeriodInMinutes": 0.8,
-    "endpointAPI": "http://bbb:8000/dashboard/api/dashboard/register_annotated_location/"
+    "endpointAPI": "http://aaa:8000/dashboard/api/dashboard/register_annotated_location/"
 }
